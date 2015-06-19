@@ -1,4 +1,4 @@
-=== AccessPress Twitter Auto Post ===
+﻿=== AccessPress Twitter Auto Post ===
 Contributors: Access Keys
 Tags: twitter auto post, twitter auto publish, auto post, twitter, auto publish,  twitter publish, twitter profile auto post, social auto post, wordpress to twitter
 Donate link: http://accesspressthemes.com/donation/
@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Auto Publish wordpress posts/pages/custom post types to Twitter Account.
+Auto post your page, post, custom posts etc to your Twitter! Auto Tweet! Easy one time configuration!
 
 == Description ==
 <strong>AccessPress Twitter Auto Post</strong> is a FREE twitter plugin for WordPress. You can use this to publish your site's posts,pages and custom post types to your twitter profile as soon as you hit the publish button in your site.
@@ -22,7 +22,7 @@ Update your fanbase about your content, wide spread your content and make your c
  
 
 
-= Features: =
+= Free Features: =
 
 * <strong>Auto post on Twitter Account</strong>
 * <strong>Auto post of new posts, custom post types (you can configure)</strong>
@@ -38,6 +38,28 @@ Update your fanbase about your content, wide spread your content and make your c
         - Dedicated email, forum support
 * <strong>Free updates</strong>
         - Get free updates for lifetime.
+
+= Premium Features: =
+
+	★ Unlimited Account Support(Configure as many accouns of <br/>each as you want)
+
+	★ Facebook Auto Post
+
+	★ Twitter Auto Post
+
+	★ LinkedIn Auto Post
+
+	★ Tumblr Auto Post
+
+	★ Advanced Caching option to prevent frequent API calls
+
+	★ Super support – get support via email/support forum/online chat 
+	
+	★ And many more...
+
+
+= Premium Upgrade = 
+* For premium upgrade, please go [here](http://codecanyon.net/item/accesspress-social-auto-post/11752265?ref=AccessKeys)
         
 = Some Useful Links =
 * <strong>Support Email</strong>: support@accesspressthemes.com
