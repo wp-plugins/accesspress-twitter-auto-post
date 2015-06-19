@@ -52,8 +52,6 @@ Update your fanbase about your content, wide spread your content and make your c
 
 	★ Tumblr Auto Post
 
-	★ Advanced Caching option to prevent frequent API calls
-
 	★ Super support – get support via email/support forum/online chat 
 	
 	★ And many more...
