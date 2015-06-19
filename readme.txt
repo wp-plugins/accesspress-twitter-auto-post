@@ -41,7 +41,8 @@ Update your fanbase about your content, wide spread your content and make your c
 
 = Premium Features: =
 
-	★ Unlimited Account Support(Configure as many accouns of <br/>each as you want)
+	★ Unlimited Account Support(Configure as many accouns of 
+    each as you want)
 
 	★ Facebook Auto Post
 
