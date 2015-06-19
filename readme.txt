@@ -15,8 +15,8 @@ Auto Publish wordpress posts/pages/custom post types to Twitter Account.
 The posting process is fully automated and as easy as 1, 2, 3!
 
 * <strong>Configure your twitter account</strong> on which you want to auto post.
-* <strong>Define your content </strong>– configure which content you’d like to auto post (eg. posts,pages and custom post types, select post format, message format and category filters )
-* <strong>Relax </strong>– your every new content will be automatically posted on your twitter increasing the audence and making them viral.<br />
+* <strong>Define your content </strong> - configure which content you'd like to auto post (eg. posts,pages and custom post types, select post format, message format and category filters )
+* <strong>Relax </strong> - your every new content will be automatically posted on your twitter increasing the audence and making them viral.<br />
 Update your fanbase about your content, wide spread your content and make your content viral!
 
  
