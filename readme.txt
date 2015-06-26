@@ -4,7 +4,7 @@ Tags: twitter auto post, twitter auto publish, auto post, twitter, auto publish,
 Donate link: http://accesspressthemes.com/donation/
 Requires at least: 3.8
 Tested up to: 4.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -102,6 +102,8 @@ Once you install the plugin , you can check some general documentation about how
 
 
 == Changelog ==
+= 1.0.1 = 
+* Fixed small issue for post types selection on settings page
 
 = 1.0.0 =
 * Plugin submitted to http://wordpress.org for review and approval
