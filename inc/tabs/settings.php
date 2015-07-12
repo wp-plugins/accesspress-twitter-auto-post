@@ -2,6 +2,9 @@
 $atap_settings = get_option('atap_settings');
 //$this->print_array($atap_settings);
 ?>
+<div class="asap-field-note">
+<?php _e('Note: PHP version 5.3 or greater required.',ATAP_TD);?>
+</div>
 <div class="asap-section" id="asap-section-settings" <?php if ($active_tab != 'settings') { ?>style="display: none;"<?php } ?>>
     <div class="asap-network-wrap">
         <h4 class="asap-network-title"><?php _e('Twitter Account Details', ATAP_TD); ?></h4>
