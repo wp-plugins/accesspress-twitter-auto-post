@@ -1,5 +1,6 @@
 <?php
 
+
 namespace Codebird;
 
 /**
@@ -12,7 +13,9 @@ namespace Codebird;
  * @license   http://opensource.org/licenses/GPL-3.0 GNU General Public License 3.0
  * @link      https://github.com/jublonet/codebird-php
  */
-
+ 
+if(!class_exists('Codebird')){
+    
 /**
  * Define constants
  */
@@ -1562,5 +1565,5 @@ class Codebird
         return $parsed;
     }
 }
-
+}//class exists test
 ?>
