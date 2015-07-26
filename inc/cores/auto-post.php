@@ -50,7 +50,8 @@ if (in_array($post_type, $account_details['post_types']) && $category_flag) {
         $$key = $val; // converting each key into variable with its own value
     }
     $post_title = $post->post_title;
-    $post_content = $post->post_content;
+    $post_content = strip_tags($post->post_content);
+    $post_content = str_replace('&nbsp;','',$post_content);
     $post_excerpt = $post->post_excerpt;
     $post_link = get_the_permalink($id);
     $post_author_id = $post->post_author;
