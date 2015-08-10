@@ -1,4 +1,5 @@
 <?php
+defined('ABSPATH') or die('No script kiddies please!');
 
 $account_details = $_POST['account_details'];
 update_option('atap_settings',$account_details);

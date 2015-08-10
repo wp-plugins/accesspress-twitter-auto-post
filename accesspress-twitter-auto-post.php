@@ -5,7 +5,7 @@ defined('ABSPATH') or die('No script kiddies please!');
  * Plugin Name: AccessPress Twitter Auto Post
  * Plugin URI: https://accesspressthemes.com/wordpress-plugins/accesspress-twitter-auto-post/
  * Description: A plugin to publish your wordpress posts to twitter
- * Version: 1.0.6
+ * Version: 1.0.7
  * Author: AccessPress Themes
  * Author URI: http://accesspressthemes.com
  * Text Domain: atap
@@ -26,7 +26,7 @@ if (!defined('ATAP_JS_DIR')) {
     define('ATAP_JS_DIR', plugin_dir_url(__FILE__) . '/js');
 }
 if (!defined('ATAP_VERSION')) {
-    define('ATAP_VERSION', '1.0.6');
+    define('ATAP_VERSION', '1.0.7');
 }
 if (!defined('ATAP_TD')) {
     define('ATAP_TD', 'atap');
